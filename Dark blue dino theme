@@ -1,6 +1,6 @@
 {
   "name": "𐌌 blue dino",
-  "description": "Dark and blue gradients with dino wallpaper",
+  "description": "blue gradients with dino wallpaper",
   "version": "1",
   "authors": [
     {
@@ -70,7 +70,7 @@
     "POLLS_NORMAL_IMAGE_BACKGROUND": ["#000000"],
     "POLLS_VICTOR_FILL": ["#00a7d2"],
     "TEXT_LINK": ["#0094ba"],
-    "TEXT_MUTED": ["#007fa0"],
+    "TEXT_MUTED": ["#006a85"],
     "TEXT_NORMAL": ["#FFFFFF"],
     "TEXT_PRIMARY": ["#FFFFFF"],
     "TEXT_SECONDARY": ["#FFFFFF"],
@@ -133,8 +133,8 @@
     "SourceCodePro-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1"
   },
   "background": {
-    "blur": 2.0,
-    "url": "https://pomf2.lain.la/f/zg8ebi6.jpg",
+    "blur": 1.9,
+    "url": "https://pomf2.lain.la/f/7pajt5ga.png",
     "OPACITY": 0
   },
   "plus": {
