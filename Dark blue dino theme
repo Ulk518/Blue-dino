@@ -70,7 +70,7 @@
     "POLLS_NORMAL_IMAGE_BACKGROUND": ["#000000"],
     "POLLS_VICTOR_FILL": ["#00a7d2"],
     "TEXT_LINK": ["#0094ba"],
-    "TEXT_MUTED": ["#00566b"],
+    "TEXT_MUTED": ["#FFFFFF"],
     "TEXT_NORMAL": ["#FFFFFF"],
     "TEXT_PRIMARY": ["#FFFFFF"],
     "TEXT_SECONDARY": ["#FFFFFF"],
